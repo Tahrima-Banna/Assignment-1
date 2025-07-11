@@ -70,3 +70,17 @@ nav{
     color:#252432;
     margin-bottom: 35px;
 }
+/* main style */
+main section{
+    max-width:1140px;
+    margin: 0 auto;
+}
+
+/* about style */
+
+.about{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top:116px;
+}
